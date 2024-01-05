@@ -1,0 +1,5 @@
+- Jupiter Notebook
+- Markdown cells and python cells
+- caching the things
+- kernels and vertual envirments
+- Testing some functions
